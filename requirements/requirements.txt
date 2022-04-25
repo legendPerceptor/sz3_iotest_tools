@@ -1,0 +1,6 @@
+pydantic
+pyyaml
+Fabric
+paramiko-ng
+globus_sdk
+pandas

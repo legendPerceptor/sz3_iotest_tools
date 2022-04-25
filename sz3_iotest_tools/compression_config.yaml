@@ -1,0 +1,10 @@
+compressor_id: "sz"
+abs_error_bound: 1e-6
+file_extension: ".f32"
+data_path: /lcrc/project/ECP-EZ/public/compression/aggregated-science-data/NYX/512x512x512/SDRBENCH-EXASKY-NYX-512x512x512/
+dimension:
+- 512
+- 512
+- 512
+metrics_path: /home/ac.yuanjian/metrics
+work_dir: /home/ac.yuanjian/sz_workdir

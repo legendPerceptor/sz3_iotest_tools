@@ -1,0 +1,14 @@
+source_endpoint: "61f9954c-a4fa-11ea-8f07-0a21f750d19b"
+# destination_endpoint: "9d6d99eb-6d04-11e5-ba46-22000b92c6ec" #NERSC
+destination_endpoint: "08925f04-569f-11e7-bef8-22000b9a448b"
+client_id: "1fb9c8a9-1aff-4d46-9f37-e3b0d44194f2"
+# source_folder: /home/ac.yuanjian/iosmall_test/
+source_folder: /lcrc/project/ECP-EZ/public/compression/aggregated-science-data/NYX/512x512x512/SDRBENCH-EXASKY-NYX-512x512x512/
+destination_folder: /home/yuanjian/iotest #/global/homes/y/yuanjian/iotest
+transfer_result_path: ./result.json
+is_directory: True
+do_compression: Yes
+do_decompression: False
+compression_config_path: "./compression_config.yaml"
+host_source: "ac.yuanjian@bebop.lcrc.anl.gov"
+host_destination: "yuanjian@cori.nersc.gov"

@@ -1,0 +1,1 @@
+A test tool for network I/O and lossy compression algorithms (including SZ, ZFP, MGARD, etc.)
